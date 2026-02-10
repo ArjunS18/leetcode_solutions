@@ -1,4 +1,6 @@
 # leetcode_solutions
+My leetcode profile: https://leetcode.com/u/Arjun_S/
+
 In this repository, I have updated the solutions for the interesting Leetcode problems I have solved. The solutions are in mostly in python and C programming languages.
 
 Odd even linked list: https://leetcode.com/problems/odd-even-linked-list/
